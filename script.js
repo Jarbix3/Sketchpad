@@ -57,7 +57,7 @@ const createPixels = (size) => {
   }
 };
 
-createPixels(32);
+createPixels(8);
 
 buttons.forEach((button) => {
   button.addEventListener("click", (event) => {
