@@ -9,8 +9,7 @@ body {
 #header {
   width: auto;
   padding: 40px 0;
-  font-family: 'Yatra One',system-ui;
-  font-style: normal;
+
 }
 
 h1 {
@@ -36,8 +35,7 @@ button{
   color: white;
   background-color: black;
   font-size: 16px;
-  font-family: 'Yatra One',system-ui;
-  font-style: normal;
+
 }
 
 input{
