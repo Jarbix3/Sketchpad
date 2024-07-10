@@ -4,7 +4,7 @@ const colorPick = document.getElementById("colorchoice");
 const randomButt = document.getElementById("random");
 const resetButt = document.getElementById("reset");
 const eraserButt = document.getElementById("eraser");
-let eraserBtnOn = 1;
+
 const createPixels = (size) => {
   container.innerHTML = "";
 
